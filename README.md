@@ -1,4 +1,4 @@
-# Bank Indonesia - Modern Web Portal (bi-portal-next)
+﻿# Bank Indonesia - Modern Web Portal (bi-portal-next)
 
 > Portal Resmi Bank Sentral Republik Indonesia yang dikembangkan dengan standar teknologi modern, informatif, dan profesional menggunakan Next.js 14, TypeScript, dan Tailwind CSS.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🏛️ Identitas & Brand Visual Resmi
+## ðŸ›ï¸ Identitas & Brand Visual Resmi
 - **Primary Color:** `#003F87` (Biru Resmi Bank Indonesia)
 - **Deep Corporate Navy:** `#002B49` & `#001D38`
 - **Gold Accent:** `#C5A059` & `#D4AF37`
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Fitur & Modul Utama
+## ðŸš€ Fitur & Modul Utama
 1. **Live Economic Indicators Ticker**: BI-Rate (6.00%), Inflasi (2.12%), Cadangan Devisa (USD 150.2B), Kurs JISDOR USD/IDR.
 2. **Kalkulator Kurs & Valas Interaktif**: Konversi 8 mata uang utama terhadap Rupiah (IDR) secara realtime.
 3. **Grafik Tren Pasar Moneter**: Visualisasi pergerakan JISDOR dan korelasi BI-Rate vs Inflasi menggunakan Recharts.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ðŸ› ï¸ Tech Stack
 - **Framework**: [Next.js 14 (App Router)](https://nextjs.org/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -34,7 +34,7 @@
 
 ---
 
-## 💻 Cara Menjalankan Lokal
+## ðŸ’» Cara Menjalankan Lokal
 
 ```bash
 # 1. Install dependencies
@@ -49,5 +49,8 @@ http://localhost:3010
 
 ---
 
-## 📄 Lisensi
-© Bank Indonesia. Hak Cipta Dilindungi Undang-Undang Republik Indonesia.
+## ðŸ“„ Lisensi
+Â© Bank Indonesia. Hak Cipta Dilindungi Undang-Undang Republik Indonesia.
+
+
+<!-- Last updated: 2026-09-01 13:06:26 -->
