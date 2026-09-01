@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-# Bank Indonesia Portal â€” Modern Central Bank Web Platform
+# Bank Indonesia Portal - Modern Central Bank Web Platform
 
-### *Official Web Portal of Bank Indonesia Reimagined with Next.js 14, TypeScript & Tailwind CSS*
+### *Official Web Portal of Bank Indonesia Reimagined with Next.js 14, TypeScript and Tailwind CSS*
 
 ![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -66,7 +66,7 @@ Bank Indonesia Portal (bi-portal-next) is an enterprise-grade modernization of t
 
 ## Getting Started
 
-`ash
+`ash
 # Clone the repository
 git clone https://github.com/raphlv/bi-portal-next.git
 cd bi-portal-next
@@ -85,15 +85,12 @@ http://localhost:3010
 
 ## Developer and Maintainer
 
-Pangeran Ryan Pahlevi  
-- Portfolio: https://pangeranryan.vercel.app  
-- GitHub: https://github.com/raphlv  
-- Email: pangeranryan080504@gmail.com  
+Pangeran Ryan Pahlevi
+- Portfolio: https://pangeranryan.vercel.app
+- GitHub: https://github.com/raphlv
+- Email: pangeranryan080504@gmail.com
 
 ---
 
 ## License
 Released under the MIT License. Official branding belongs to Bank Indonesia.
-
-<!-- Last verified: 2026-09-01 13:10:43 by Pangeran Ryan Pahlevi -->
-
